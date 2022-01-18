@@ -82,7 +82,7 @@ public class BaseTest {
 
     @BeforeSuite
     public void setUp() {
-        htmlReporter = new ExtentHtmlReporter("src/main/java/org/swaglabs/reports/report.html");
+        htmlReporter = new ExtentHtmlReporter("src/main/java/org/swaglabs/report.html");
         extent = new ExtentReports();
         extent.attachReporter(htmlReporter);
 
