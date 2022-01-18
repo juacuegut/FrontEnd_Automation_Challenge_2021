@@ -1,3 +1,5 @@
 # Project exclude paths
 /target/
 .idea/sonarlint/issuestore/
+.idea/sonarlint/issuestore/index.pb
+.idea/encodings.xml

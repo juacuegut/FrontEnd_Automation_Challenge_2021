@@ -7,8 +7,6 @@ f
 6src/main/java/org/swaglabs/tests/ShoppingCartTest.java,a\9\a9b7bf2afe784ab54a263432cbcdfb03836cec33
 a
 1src/main/java/org/swaglabs/pages/LandingPage.java,3\2\328b7e5ead6ea30be9e3373c7f1e63d20e376088
-]
--src/main/java/org/swaglabs/DataProviders.java,e\7\e73dfe6135ab2bc6cb089b1a843772fddcfd9d6b
 ^
 .src/main/java/org/swaglabs/pages/HomePage.java,1\2\12d81a53ee066bcf978fb99e7be492deb78ec35e
 ^
