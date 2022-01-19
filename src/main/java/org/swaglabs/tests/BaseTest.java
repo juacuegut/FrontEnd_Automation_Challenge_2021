@@ -33,7 +33,7 @@ public class BaseTest {
     public static ExtentHtmlReporter htmlReporter;
     static ExtentReports extent;
     public static ExtentTest test;
-    HashMap<String,String> user;
+    public HashMap<String,String> user;
 
     @Parameters({"browser"})
     @BeforeMethod
