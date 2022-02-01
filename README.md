@@ -26,5 +26,6 @@ Expected: Validate the correct product was added to the cart.
 Expected: Validate the user navigates to the order confirmation page.
 
 ## Instructions to Run
-[testng-parameters.xml] (/testng-parameters.xml) -> This file contains all the tests belonging the Challenge, for Chrome, Firefox and Edge browsers.
-[testngtests.xml] (/testngtests.xml) -> This file contains the tests that are currently running in the CI/CD Azure Devops Pipeline
+[testng-parameters.xml](testng-parameters.xml) -> This file contains all the tests belonging the Challenge, for Chrome, Firefox and Edge browsers.
+
+[testngtests.xml](testngtests.xml) -> This file contains the tests that are currently running in the CI/CD Azure DevOps Pipeline
